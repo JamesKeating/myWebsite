@@ -1685,7 +1685,11 @@ a {
 }
 
 .cv-job-header-text {
-    font-size: 1.5em;
+     font-size: 1.5em;
+     color: #888;
+ }
+.cv-job-header-text-2 {
+    font-size: .7em;
     color: #888;
 }
 
