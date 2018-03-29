@@ -8,7 +8,7 @@
 }
 
 .blast-root{
-  width: 1000%;
+  width: 150%;
 }
 
 @media screen and (max-width: 600px) {
@@ -19,5 +19,9 @@
     margin: 10px auto 5px 20px;
     width: 28%;
     display: none;
+  }
+
+  .blast-root{
+    width: 100%;
   }
 }
